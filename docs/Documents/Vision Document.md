@@ -80,17 +80,17 @@ relatado. Sendo dividido em:</p>
 <!-- ### 2.1 <a name="2_1">Oportunidade de negócio</a> (v0.1) -->
 ### 2.1 <a div id='2_1'>Oportunidade de negócio</a>
 
-<p align="justify">(Descrever brevemente a oportunidade de negócio a quem este projeto está endereçado.)</p>
+<p align="justify">O Território Cerrado Tocantins foi considerado prioritário para a conservação de espécies ameaçadas, compreendendo 22 municípios. O produto tem como objetivo mapear espécies da fauna de Tocantins ameaçadas em extinção e, através de um aplicativo remoto, ajudar o Governo a registrar a localidade dessas espécies. </p>
 
 <!-- ### 2.2 <a name="2_2">Descrição do problema</a> (v0.1) -->
 ### 2.2 <a div id='2_2'>Descrição do problema</a>
 
 |**Questão**|**Informações do Produto**|
 |:-|:-|
-|**O Problema é**|(Citação do Problema)|
-|**Que afeta**|(Citação dos afetados)|
-|**Cujo impacto é**|(Citação do impacto)|
-|**Uma boa solução seria**|(Citação da solução)|
+|**O Problema é**|Aumento das atividades agropecuárias e de mineração|
+|**Que afeta**|Fauna e flora|
+|**Cujo impacto é**|Espécies ameaçadas de extinção|
+|**Uma boa solução seria**|Registrar, mapear e incentivar o registro de espécies na região de tocantins|
 
 <!-- ### 2.3 <a name="2_3">Posicionamento do produto</a> (v0.1) -->
 ### 2.3 <a div id='2_3'>Posicionamento do produto</a>
