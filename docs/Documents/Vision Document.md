@@ -103,21 +103,24 @@ relatado. Sendo dividido em:</p>
 <!-- ## 3. <a name="3">Cliente e descrição do usuário</a> (v0.1) -->
 ## 3. <a div id='3'>Cliente e descrição do usuário</a>
 
-|**Nome**|**Descrição**|
-|:-|:-|
-| Pescadores| Pescadores buscando registrar/encontrar locais de pesca. | <!-- Adicionar novos clientes -->
+<p align="justify">Com a finalidade de construir a base de dados que mapeia as espécies de peixes de água doce no Território Cerrado Tocantins, é necessária a interação dos usuários do aplicativo, que consistem principalmente em praticantes da pesca na região, e pesquisadores interessados nas informações geradas.</p>
 
 <!-- ### 3.1 <a name="3_1">Mercado e público alvo</a> (v0.1) -->
 ### 3.1 <a div id='3_1'>Mercado e público alvo</a>
-<p align="justify">(Escrever resumidamente o mercado que motiva as decisões de projeto, descrevendo o público alvo e segmento de mercado que o aplicativo deseja perseguir.)</p>
+<p align="justify">O aplicativo terá como nicho de mercado, a área da pesca, e como público alvo, principalmente pescadores de peixes de água doce e pesquisadores, de forma a gerar um mapeamento de espécies, de onde possam ser retiradas informações acerca da distribuição de determinadas espécies em determinada área.</p>
 
 <!-- ### 3.2 <a name="3_2">Perfis de usuários</a> (v0.1) -->
 ### 3.2 <a div id='3_2'>Perfis de usuários</a>
-<p align="justify">(Listar todos os usuários identificados. Para cada tipo de usuário, aponte suas informações como: Tipo do usuário (estudante, atleta…); representação (indivíduo, time, organização que representa este usuário); perfil (perfil atuante do usuario no aplicativo))</p>
+
+|**Nome**|**Perfil**|**Utilização**|
+|:-|:-|:-|
+| Pescadores | Pescadores buscando encontrar e/ou registrar especies de peixes encontradas, e o local de pesca | Utilizar o aplicativo para registrar suas experiências de pesca, de modo a suprir a base de dados com informações sobre espécies encontradas e a localização | <!-- Adicionar novos clientes -->
+| Pesquisadores | Profissionais envolvidos com a pesquisa acerca de espécies ameaçadas de extinção, ou cuja pesquisa se beneficie do mapeamento de espécies gerado | Consultar/obter as informações extraídas da base de dados do aplicativo, de forma a enriquecer a pesquisa científica e a conservação de espécies ameaçadas de extinção | 
+| Usuários interessados | Possíveis pessoas interessadas em utilizar o aplicativo para registrar espécies de peixes encontradas em experiências próprias | Registrar no aplicativo descobertas pessoais de espécies de peixe, fomentando a base de dados e o mapeamento das espécies |
 
 <!-- ### 3.3 <a name="3_3">Ambientes dos usuários</a> (v0.1) -->
 ### 3.3 <a div id='3_3'>Ambientes dos usuários</a>
-<p align="justify">(Detalhamento sobre o ambiente em que o aplicativo atuará.)</p>
+<p align="justify">Tendo em vista que o principal objetivo do aplicativo é contruir um mapeamento de espécies de peixes da região, o ambiente de atuação do aplicativo consiste principalmente em locais de pesca de peixes de água doce. Isso se deve também ao público alvo, pescadores com esse perfil de pesca, que atuam em locais de água doce.</p>
 
 <hr>
 
