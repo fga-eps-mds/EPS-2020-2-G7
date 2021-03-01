@@ -45,7 +45,8 @@ o sumário usando "name" ao invés do "id". Caso o sumário esteja ok, pode apag
 
 <!-- ### 1.1 <a name ="1_1">Propósito</a> (v0.1) -->
 ### 1.1 <a div id='1_1'>Propósito</a>
-<p align="justify">(Texto sobre o propósito do aplicativo.)</p>
+<p align="justify">Prover um panorama, ora geral ora específico, dos aspectos mais relevantes do 
+    projeto, tais como posicionamento, visão geral, recursos e descrição dos envolvidos.</p>
 
 <!-- ### 1.2 <a name="1_2">Escopo</a> (v0.1) -->
 ### 1.2 <a div id='1_2'>Escopo</a>
