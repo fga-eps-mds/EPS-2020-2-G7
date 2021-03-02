@@ -3,7 +3,8 @@ name: 'Criações de issues gerais '
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: ''
+assignees: marcosdsg, WeillerFernandes, ngm1450, ritzare, Jeffersonfillipe, LuizPettengill,
+  Eric-chagas, GabrielAraujoSouz
 
 ---
 
