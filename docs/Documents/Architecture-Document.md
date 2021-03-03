@@ -10,7 +10,8 @@
 
 Data|Versão|Descrição|Autor
 -|-|-|-
-27/02|0.1|Abertura do Documento de Arquitetura|Jefferson| <!-- Adicionar novos históricos -->
+27/02|0.1|Abertura do Documento de Arquitetura|Jefferson
+03/03|0.2|Adicionado Finalidade(1.1)|Jefferson| <!-- Adicionar novos históricos -->
 
 ## Sumário
 1. [Introdução](#1-introdução)<br>
@@ -39,13 +40,9 @@ Data|Versão|Descrição|Autor
 
 ## 1. Introdução
 
-*[A introdução do Documento de Arquitetura de Software deve apresentar uma visão geral de todo o Documento de Arquitetura de Software. Ela deve incluir a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e uma visão geral do Documento de Arquitetura de Software.]*
-
 ### 1.1 Finalidade
 
-<p align="justify">Este documento apresenta uma visão geral abrangente da arquitetura do sistema e utiliza uma série de visões arquiteturais diferentes para ilustrar os diversos aspectos do sistema. Sua intenção é capturar e transmitir as decisões significativas do ponto de vista da arquitetura que foram tomadas em relação ao sistema.</p>
-
-*[Esta seção define a finalidade do Documento de Arquitetura de Software, na documentação geral do projeto, e contém uma breve descrição da estrutura do documento. Os públicos específicos do documento devem ser identificados, com uma indicação de como devem usá-lo.]*
+<p align="justify">Este documento tem como objetivo apresentar as decisões arquiteturais tomadas em relação à aplicação e demonstrar detalhes do modelo de arquitetura de software utilizado.</p>
 
 ### 1.2 Escopo
 
