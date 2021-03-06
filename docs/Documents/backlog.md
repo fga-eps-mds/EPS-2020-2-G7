@@ -12,7 +12,7 @@ Construimos um backlog completo para o produto com base nas funcionalidades leva
 ## 2. Backlog
 
 | Feature | US | Eu, como | Gostaria de | Para poder | Priorização |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | Cadastro | US01 | Usuário | Cadastrar minha conta | Ter acesso às funcionalidades do app | Alta |
 | Login | US02 | Usuário | Acessar minha conta cadastrada | Poder utilizar as funcionalidades do app  | Alta |
 | Registro | US03 | Usuário | Adicionar fotos e localização dos peixes | Registrar os peixes pescados | Alta |
