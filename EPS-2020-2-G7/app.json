@@ -1,0 +1,12 @@
+{
+  "name": "EPS-2020-2-G7",
+  "displayName": "EPS-2020-2-G7",
+  "expo": {
+    "name": "EPS-2020-2-G7",
+    "slug": "EPS-2020-2-G7",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
