@@ -109,11 +109,11 @@ relatado. Sendo dividido em:</p>
 
 ### 3.2 <a div id='3_2'>Perfis de usuários</a>
 
-| **Nome**              | **Perfil**                                                                                                                                       | **Utilização**                                                                                                                                                         |
-| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| Pescadores            | Pescadores buscando encontrar e/ou registrar especies de peixes encontradas, e o local de pesca                                                  | Utilizar o aplicativo para registrar suas experiências de pesca, de modo a suprir a base de dados com informações sobre espécies encontradas e a localização           | <!-- Adicionar novos clientes --> |
-| Pesquisadores         | Profissionais envolvidos com a pesquisa acerca de espécies ameaçadas de extinção, ou cuja pesquisa se beneficie do mapeamento de espécies gerado | Consultar/obter as informações extraídas da base de dados do aplicativo, de forma a enriquecer a pesquisa científica e a conservação de espécies ameaçadas de extinção |
-| Usuários interessados | Possíveis pessoas interessadas em utilizar o aplicativo para registrar espécies de peixes encontradas em experiências próprias                   | Registrar no aplicativo descobertas pessoais de espécies de peixe, fomentando a base de dados e o mapeamento das espécies                                              |
+| **Nome**| **Perfil**| **Utilização**|
+|:-|:-|:-|
+| Pescadores | Pescadores buscando encontrar e/ou registrar especies de peixes encontradas, e o local de pesca | Utilizar o aplicativo para registrar suas experiências de pesca, de modo a suprir a base de dados com informações sobre espécies encontradas e a localização | <!-- Adicionar novos clientes --> |
+| Pesquisadores | Profissionais envolvidos com a pesquisa acerca de espécies ameaçadas de extinção, ou cuja pesquisa se beneficie do mapeamento de espécies gerado | Consultar/obter as informações extraídas da base de dados do aplicativo, de forma a enriquecer a pesquisa científica e a conservação de espécies ameaçadas de extinção |
+| Usuários interessados | Possíveis pessoas interessadas em utilizar o aplicativo para registrar espécies de peixes encontradas em experiências próprias | Registrar no aplicativo descobertas pessoais de espécies de peixe, fomentando a base de dados e o mapeamento das espécies |                                              |
 
 ### 3.3 <a div id='3_3'>Ambientes dos usuários</a>
 
