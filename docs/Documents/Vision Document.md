@@ -134,19 +134,15 @@ relatado. Sendo dividido em:</p>
 
 #### 4.2.1 <a div id='4_2_1'>Front-End</a>
 
-<p align="justify">
-
 1. React Native
     - Framework baseado em React, focado na construção de interfaces de usuário 
 2. CSS
     - Linguagem para aplicação de estilos à documentos HTML
 3. HTML
     - Linguagem de marcação amplamente utilizada na construção de páginas web
-</p>
 
 #### 4.2.2 <a div id='4_2_2'>Back-End</a>
 
-<p align="justify">
 1. JavaScript
     - Linguagem de programação interpretada, utilizada com a finalidade de garantir interatividade nos sistemas
 2. SQL
@@ -154,7 +150,6 @@ relatado. Sendo dividido em:</p>
 3. PostgreeSQL 
     - Sistema gerenciador de banco de dados objeto relacional, de código aberto
 
-</p>
 
 <hr>
 
