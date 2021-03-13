@@ -15,6 +15,7 @@
 | 01/03 | 0.3    | Adicionado o Propósito                                              | Nicolas   |
 | 01/03 | 0.4    | Adicionada Cliente e descrição do usuário (seção 3)                 | Eric      |
 | 12/03 | 0.5    | Adicionado as funcionalidades (seção 5) e atualização dos registros | Jefferson |
+| 13/03 | 0.6    | Adicionadas e editadas seções 1.1, 1.2, 1.3, 4.1 e 4.2              | Eric      |
 
 <!-- Adicionar novos históricos -->
 
@@ -41,7 +42,7 @@
 5. [Funcionalidades do produto](#5)<br>
    5.1 [Funcionalidades do usuário pescador](#5_1)<br>
    5.2 [Funcionalidades do usuário pesquisador](#5_2)<br>
-6. [Qualidade](#6)
+
 
 <hr>
 
@@ -49,18 +50,21 @@
 
 ### 1.1 <a div id='1_1'>Propósito</a>
 
-<p align="justify">Prover um panorama, ora geral ora específico, dos aspectos mais relevantes do 
-    projeto, tais como posicionamento, visão geral, recursos e descrição dos envolvidos.</p>
+<p align="justify">O Plano de ação para a conservação das espécies ameaçadas de extinção do Território Cerrado Tocantins, surgiu no âmbito do projeto Pró-Espécies: Todos contra a extinção, com o principal objetivo de reduzir as extinções de espécies. Nesse contexto, e levando em consideração sobretudo o Território Cerrado Tocantins, o projeto tem como principais finalidades:</p>
+  
+1. Fornecer uma plataforma que possa ser utilizada com facilidade por pescadores que tenham interesse em registrar espécies de peixe pescadas na base de dados
+2. Fornecer um mapeamento de espécies de peixes de água doce, por meio da base de dados do aplicativo
+3. Fornecer um meio para que pesquisadores possam extrair os dados acerca do mapeamento, afim de fomentar a pesquisa científica, e o projeto de preservação das espécies ameaçadas de extinção
 
 ### 1.2 <a div id='1_2'>Escopo</a>
 
-<p align="justify">(Texto sobre o escopo do aplicativo.)</p>
+<p align="justify">A abrangência desejada para o aplicativo, é garantir a utilização do aplicativo para pescadores principalmente nos locais em que praticam a pesca com o objetivo de registrar espécies, e fornecimento dos dados para pesquisadores.</p>
 
 ### 1.3 <a div id='1_3'>Referências</a>
 
 (Listagem das referências que são utilizadas neste documento de visão.)
 
-<p align="left">Nome do documento/artigo. Disponível em: https://www.exemplo.com. Acesso em: DIA MES ANO;</p>
+<p align="left">Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins, Disponível em: https://www.exemplo.com. Acesso em: 13/03/2021;</p>
 
 ### 1.4 <a div id='1_4'>Visão geral</a>
 
@@ -72,13 +76,11 @@ relatado. Sendo dividido em:</p>
 - **Cliente e descrição do usuário:** descreve o perfil das partes interessadas no projeto e segmento do mercado no qual busca atuar;
 - **Visão geral do produto:** descreve as tecnologias utilizadas no produto e a sua perspectiva;
 - **Funcionalidades do produto:** fornece uma visualização detalhada das funcionalidades do produto;
-- **Qualidade:** descreve as etapas de qualidade do produto.
+
 
 <hr>
 
 ## 2. <a div id='2'>Posicionamento</a>
-
-<p align="justify">(Texto de posicionamento)</p>
 
 ### 2.1 <a div id='2_1'>Oportunidade de negócio</a>
 
@@ -125,17 +127,34 @@ relatado. Sendo dividido em:</p>
 
 ### 4.1 <a div id='4_1'>Perspectiva do produto</a>
 
-<p align="justify">(Descrever as perspectivas do aplicativo.)</p>
+<p align="justify">Garantir uma boa usabilidade do aplicativo, com o intuito de que pescadores possam facilmente realizar os registros dos peixes, e que pesquisadores possam extrair os dados acerca do mapeamento de espécies.</p>
+
 
 ### 4.2 <a div id='4_2'>Tecnologias</a>
 
 #### 4.2.1 <a div id='4_2_1'>Front-End</a>
 
-<p align="justify">(Enumerar e descrever as tecnologias que serão utilizadas na camada do front-end do aplicativo.)</p>
+<p align="justify">
+
+1. React Native
+    - Framework baseado em React, focado na construção de interfaces de usuário 
+2. CSS
+    - Linguagem para aplicação de estilos à documentos HTML
+3. HTML
+    - Linguagem de marcação amplamente utilizada na construção de páginas web
+</p>
 
 #### 4.2.2 <a div id='4_2_2'>Back-End</a>
 
-<p align="justify">(Enumerar e descrever as tecnologias que serão utilizadas na camada do back-end do aplicativo.)</p>
+<p align="justify">
+1. JavaScript
+    - Linguagem de programação interpretada, utilizada com a finalidade de garantir interatividade nos sistemas
+2. SQL
+    - Linguagem de Consulta Estruturada, linguagem de pesquisa declarativa padrão para banco de dados relacional
+3. PostgreeSQL 
+    - Sistema gerenciador de banco de dados objeto relacional, de código aberto
+
+</p>
 
 <hr>
 
@@ -176,7 +195,3 @@ O usuário pesquisador, após realizar seu cadastro e login, terá acesso as fun
 
 <hr>
 
-## 6. <a div id='6'>Qualidade</a>
-
-<p align="justify">(Descrever os steps de qualidade que o projeto seguirá (regras de lint, ferramentas de coverage, hooks para fluxo de versionamento do código, etc))
-</p>
